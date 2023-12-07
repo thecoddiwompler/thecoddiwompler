@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools  
 <div align="center">  
-<img title="Spark" alt="Spark" src="assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+<img title="Spark" alt="Spark" src="spark.png" width="80" height="50" style="vertical-align:down; margin:4px"/>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
