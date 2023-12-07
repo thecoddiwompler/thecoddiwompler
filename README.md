@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="IMG/my-image.png" width="150">
+<img src="IMG/odin.jpg" width="600">
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Indrajeet Mishra](https://www.linkedin.com/in/indrajeet-mishra/) and welcome to my GitHub profile! :octocat:
